@@ -99,7 +99,6 @@ ul.mucLuc>li>a:hover{
         width : 100vw;
         margin : 0;
         position : relative;
-        transition: 2s ease-out;;
     } 
     .logoTruong {
         display : none;
