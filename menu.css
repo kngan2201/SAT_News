@@ -75,7 +75,8 @@ ul.mucLuc>li>a:hover{
     font-weight: bold;
     color : white;
 }
-/* <----------THANH MENU END------------------------> */
+
+/* <----------RESPONSIVE THANH MENU------------------------> */
 @media screen and (max-width : 950px) {
     * {
         padding : 0;
@@ -93,8 +94,6 @@ ul.mucLuc>li>a:hover{
         --tim : #321d5e;
         --tieudephu : #52407b;
     }
-    
-/* <----------THANH MENU-----------------------> */
     .thanhmenu {
         display : none;
         width : 100vw;
